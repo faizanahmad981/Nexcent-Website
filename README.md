@@ -1,16 +1,8 @@
-# Nexcent-Website
-Html ,css
 # Nexcent  One-Page Website
-
-
-**Project Banner**  
-![1](https://github.com/user-attachments/assets/38a21703-bab3-47d7-bd8b-cfcf5864e826)
 
 ## Overview
 
-The **Nexcent ** website is a responsive one-page project built using **HTML**, **CSS**, and **Bootstrap**. This project demonstrates a modern and elegant design, suitable for small business websites.
-
----
+The **Nexcent website** is a responsive one-page project built using **HTML**, **CSS**, and **Bootstrap**. This project demonstrates a modern and elegant design, suitable for small business websites.
 
 ## Technologies Used
 
@@ -19,7 +11,8 @@ The **Nexcent ** website is a responsive one-page project built using **HTML**, 
 - Bootstrap 5
 - Responsive Design
 
----
+**Project Banner**  
+![1](https://github.com/user-attachments/assets/38a21703-bab3-47d7-bd8b-cfcf5864e826)
 
 ## Features
 
@@ -36,11 +29,6 @@ The **Nexcent ** website is a responsive one-page project built using **HTML**, 
 ![Desktop Screenshot 2]![2](https://github.com/user-attachments/assets/502784d4-aa3a-4c6e-b5d2-402660735f02)
 ![Desktop Screenshot 3]![3]![4](https://github.com/user-attachments/assets/6419569b-1fe7-4b00-8ea0-d70b47a93ef7)
 
-
-
-
-
----
 
 ### Mobile View:
 
@@ -63,6 +51,6 @@ To view or modify this project:
 
 1. Clone the repository:  
    ```bash
-   git clone [ https://github.com/your-username/honey-bee.git](https://github.com/faizanahmad981/Nexcent-Website.git)
+   git clone (https://github.com/faizanahmad981/Nexcent-Website.git)
 2.  cd Nexcent-Website
    
